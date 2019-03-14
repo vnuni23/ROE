@@ -1,0 +1,29 @@
+﻿Category,Fuel,Segment,Temperature Range (degree C),VOCs evaporation EF (g/day)
+Passenger Cars,Petrol,Small,20--35,14.6
+Passenger Cars,Petrol,Small,10--25,7.8
+Passenger Cars,Petrol,Small,0--15,5.7
+Passenger Cars,Petrol,Small,-5--10,4
+Passenger Cars,Petrol,Medium,20--35,14.6
+Passenger Cars,Petrol,Medium,10--25,7.8
+Passenger Cars,Petrol,Medium,0--15,5.7
+Passenger Cars,Petrol,Medium,-5--10,4
+Passenger Cars,Petrol,Large-SUV-Executive,20--35,14.6
+Passenger Cars,Petrol,Large-SUV-Executive,10--25,7.8
+Passenger Cars,Petrol,Large-SUV-Executive,0--15,5.7
+Passenger Cars,Petrol,Large-SUV-Executive,-5--10,4
+Light Commercial Vehicles,Petrol,N1-I,20--35,22.2
+Light Commercial Vehicles,Petrol,N1-I,10--25,12.7
+Light Commercial Vehicles,Petrol,N1-I,0--15,9.3
+Light Commercial Vehicles,Petrol,N1-I,-5--10,6.5
+Heavy Duty Trucks,Petrol,"Rigid 7,5 - 12 t",20--35,22.2
+Heavy Duty Trucks,Petrol,"Rigid 7,5 - 12 t",10--25,12.7
+Heavy Duty Trucks,Petrol,"Rigid 7,5 - 12 t",0--15,9.3
+Heavy Duty Trucks,Petrol,"Rigid 7,5 - 12 t",-5--10,6.5
+Heavy Duty Trucks,Petrol,Rigid 12 - 14 t,20--35,22.2
+Heavy Duty Trucks,Petrol,Rigid 12 - 14 t,10--25,12.7
+Heavy Duty Trucks,Petrol,Rigid 12 - 14 t,0--15,9.3
+Heavy Duty Trucks,Petrol,Rigid 12 - 14 t,-5--10,6.5
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm³,20--35,7.5
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm³,10--25,4.6
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm³,0--15,3.4
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm³,-5--10,2.6

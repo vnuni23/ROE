@@ -1,0 +1,451 @@
+﻿Category,Fuel,Segment,CHINA Standard,Technology,Pollutant/Energy consumption,Gamma
+Passenger Cars,Petrol,Small,Pre I,,CO,25.72
+Passenger Cars,Petrol,Small,Pre I,,HC,2.685
+Passenger Cars,Petrol,Small,Pre I,,NOx,1.971
+Passenger Cars,Petrol,Small,Pre I,,PM25,0.028
+Passenger Cars,Petrol,Small,Pre I,,PM10,0.031
+Passenger Cars,Petrol,Small,CHINA I,,CO,6.71
+Passenger Cars,Petrol,Small,CHINA I,,HC,0.663
+Passenger Cars,Petrol,Small,CHINA I,,NOx,0.409
+Passenger Cars,Petrol,Small,CHINA I,,PM25,0.026
+Passenger Cars,Petrol,Small,CHINA I,,PM10,0.029
+Passenger Cars,Petrol,Small,CHINA II,,CO,2.52
+Passenger Cars,Petrol,Small,CHINA II,,HC,0.314
+Passenger Cars,Petrol,Small,CHINA II,,NOx,0.324
+Passenger Cars,Petrol,Small,CHINA II,,PM25,0.011
+Passenger Cars,Petrol,Small,CHINA II,,PM10,0.012
+Passenger Cars,Petrol,Small,CHINA III,,CO,1.18
+Passenger Cars,Petrol,Small,CHINA III,,HC,0.191
+Passenger Cars,Petrol,Small,CHINA III,,NOx,0.1
+Passenger Cars,Petrol,Small,CHINA III,,PM25,0.007
+Passenger Cars,Petrol,Small,CHINA III,,PM10,0.008
+Passenger Cars,Petrol,Small,CHINA IV,,CO,0.68
+Passenger Cars,Petrol,Small,CHINA IV,,HC,0.075
+Passenger Cars,Petrol,Small,CHINA IV,,NOx,0.032
+Passenger Cars,Petrol,Small,CHINA IV,,PM25,0.003
+Passenger Cars,Petrol,Small,CHINA IV,,PM10,0.003
+Passenger Cars,Petrol,Small,CHINA V,,CO,0.46
+Passenger Cars,Petrol,Small,CHINA V,,HC,0.056
+Passenger Cars,Petrol,Small,CHINA V,,NOx,0.017
+Passenger Cars,Petrol,Small,CHINA V,,PM25,0.003
+Passenger Cars,Petrol,Small,CHINA V,,PM10,0.003
+Passenger Cars,Petrol,Medium,Pre I,,CO,39.13
+Passenger Cars,Petrol,Medium,Pre I,,HC,3.695
+Passenger Cars,Petrol,Medium,Pre I,,NOx,2.938
+Passenger Cars,Petrol,Medium,Pre I,,PM25,0.099
+Passenger Cars,Petrol,Medium,Pre I,,PM10,0.11
+Passenger Cars,Petrol,Medium,CHINA I,,CO,21.43
+Passenger Cars,Petrol,Medium,CHINA I,,HC,2.567
+Passenger Cars,Petrol,Medium,CHINA I,,NOx,1.781
+Passenger Cars,Petrol,Medium,CHINA I,,PM25,0.06
+Passenger Cars,Petrol,Medium,CHINA I,,PM10,0.067
+Passenger Cars,Petrol,Medium,CHINA II,,CO,15.37
+Passenger Cars,Petrol,Medium,CHINA II,,HC,1.443
+Passenger Cars,Petrol,Medium,CHINA II,,NOx,1.461
+Passenger Cars,Petrol,Medium,CHINA II,,PM25,0.018
+Passenger Cars,Petrol,Medium,CHINA II,,PM10,0.02
+Passenger Cars,Petrol,Medium,CHINA III,,CO,4.33
+Passenger Cars,Petrol,Medium,CHINA III,,HC,0.373
+Passenger Cars,Petrol,Medium,CHINA III,,NOx,0.474
+Passenger Cars,Petrol,Medium,CHINA III,,PM25,0.011
+Passenger Cars,Petrol,Medium,CHINA III,,PM10,0.012
+Passenger Cars,Petrol,Medium,CHINA IV,,CO,1.98
+Passenger Cars,Petrol,Medium,CHINA IV,,HC,0.107
+Passenger Cars,Petrol,Medium,CHINA IV,,NOx,0.196
+Passenger Cars,Petrol,Medium,CHINA IV,,PM25,0.006
+Passenger Cars,Petrol,Medium,CHINA IV,,PM10,0.007
+Passenger Cars,Petrol,Medium,CHINA V,,CO,1.98
+Passenger Cars,Petrol,Medium,CHINA V,,HC,0.107
+Passenger Cars,Petrol,Medium,CHINA V,,NOx,0.147
+Passenger Cars,Petrol,Medium,CHINA V,,PM25,0.006
+Passenger Cars,Petrol,Medium,CHINA V,,PM10,0.007
+Passenger Cars,Petrol,Large,Pre I,,CO,100.74
+Passenger Cars,Petrol,Large,Pre I,,HC,5.144
+Passenger Cars,Petrol,Large,Pre I,,NOx,5.156
+Passenger Cars,Petrol,Large,Pre I,,PM25,0.293
+Passenger Cars,Petrol,Large,Pre I,,PM10,0.326
+Passenger Cars,Petrol,Large,CHINA I,,CO,62.09
+Passenger Cars,Petrol,Large,CHINA I,,HC,5.255
+Passenger Cars,Petrol,Large,CHINA I,,NOx,2.645
+Passenger Cars,Petrol,Large,CHINA I,,PM25,0.159
+Passenger Cars,Petrol,Large,CHINA I,,PM10,0.177
+Passenger Cars,Petrol,Large,CHINA II,,CO,16.64
+Passenger Cars,Petrol,Large,CHINA II,,HC,1.98
+Passenger Cars,Petrol,Large,CHINA II,,NOx,2.562
+Passenger Cars,Petrol,Large,CHINA II,,PM25,0.072
+Passenger Cars,Petrol,Large,CHINA II,,PM10,0.08
+Passenger Cars,Petrol,Large,CHINA III,,CO,8.25
+Passenger Cars,Petrol,Large,CHINA III,,HC,0.869
+Passenger Cars,Petrol,Large,CHINA III,,NOx,1.52
+Passenger Cars,Petrol,Large,CHINA III,,PM25,0.044
+Passenger Cars,Petrol,Large,CHINA III,,PM10,0.049
+Passenger Cars,Petrol,Large,CHINA IV,,CO,3.77
+Passenger Cars,Petrol,Large,CHINA IV,,HC,0.418
+Passenger Cars,Petrol,Large,CHINA IV,,NOx,0.775
+Passenger Cars,Petrol,Large,CHINA IV,,PM25,0.044
+Passenger Cars,Petrol,Large,CHINA IV,,PM10,0.049
+Passenger Cars,Petrol,Large,CHINA V,,CO,3.77
+Passenger Cars,Petrol,Large,CHINA V,,HC,0.418
+Passenger Cars,Petrol,Large,CHINA V,,NOx,0.582
+Passenger Cars,Petrol,Large,CHINA V,,PM25,0.044
+Passenger Cars,Petrol,Large,CHINA V,,PM10,0.049
+Passenger Cars,Diesel,Small,Pre I,,CO,1.34
+Passenger Cars,Diesel,Small,Pre I,,HC,0.785
+Passenger Cars,Diesel,Small,Pre I,,NOx,1.324
+Passenger Cars,Diesel,Small,Pre I,,PM25,0.179
+Passenger Cars,Diesel,Small,Pre I,,PM10,0.199
+Passenger Cars,Diesel,Small,CHINA I,,CO,0.36
+Passenger Cars,Diesel,Small,CHINA I,,HC,0.071
+Passenger Cars,Diesel,Small,CHINA I,,NOx,0.976
+Passenger Cars,Diesel,Small,CHINA I,,PM25,0.063
+Passenger Cars,Diesel,Small,CHINA I,,PM10,0.07
+Passenger Cars,Diesel,Small,CHINA II,,CO,0.45
+Passenger Cars,Diesel,Small,CHINA II,,HC,0.046
+Passenger Cars,Diesel,Small,CHINA II,,NOx,0.976
+Passenger Cars,Diesel,Small,CHINA II,,PM25,0.052
+Passenger Cars,Diesel,Small,CHINA II,,PM10,0.058
+Passenger Cars,Diesel,Small,CHINA III,,CO,0.14
+Passenger Cars,Diesel,Small,CHINA III,,HC,0.024
+Passenger Cars,Diesel,Small,CHINA III,,NOx,0.841
+Passenger Cars,Diesel,Small,CHINA III,,PM25,0.032
+Passenger Cars,Diesel,Small,CHINA III,,PM10,0.036
+Passenger Cars,Diesel,Small,CHINA IV,,CO,0.13
+Passenger Cars,Diesel,Small,CHINA IV,,HC,0.016
+Passenger Cars,Diesel,Small,CHINA IV,,NOx,0.679
+Passenger Cars,Diesel,Small,CHINA IV,,PM25,0.031
+Passenger Cars,Diesel,Small,CHINA IV,,PM10,0.034
+Passenger Cars,Diesel,Small,CHINA V,,CO,0.13
+Passenger Cars,Diesel,Small,CHINA V,,HC,0.016
+Passenger Cars,Diesel,Small,CHINA V,,NOx,0.679
+Passenger Cars,Diesel,Small,CHINA V,,PM25,0.031
+Passenger Cars,Diesel,Small,CHINA V,,PM10,0.034
+Passenger Cars,Diesel,Medium,Pre I,,CO,3.91
+Passenger Cars,Diesel,Medium,Pre I,,HC,1.493
+Passenger Cars,Diesel,Medium,Pre I,,NOx,5.47
+Passenger Cars,Diesel,Medium,Pre I,,PM25,1.603
+Passenger Cars,Diesel,Medium,Pre I,,PM10,1.781
+Passenger Cars,Diesel,Medium,CHINA I,,CO,3.44
+Passenger Cars,Diesel,Medium,CHINA I,,HC,1.425
+Passenger Cars,Diesel,Medium,CHINA I,,NOx,4.787
+Passenger Cars,Diesel,Medium,CHINA I,,PM25,0.464
+Passenger Cars,Diesel,Medium,CHINA I,,PM10,0.516
+Passenger Cars,Diesel,Medium,CHINA II,,CO,2.82
+Passenger Cars,Diesel,Medium,CHINA II,,HC,0.425
+Passenger Cars,Diesel,Medium,CHINA II,,NOx,5.693
+Passenger Cars,Diesel,Medium,CHINA II,,PM25,0.157
+Passenger Cars,Diesel,Medium,CHINA II,,PM10,0.174
+Passenger Cars,Diesel,Medium,CHINA III,,CO,2.12
+Passenger Cars,Diesel,Medium,CHINA III,,HC,0.364
+Passenger Cars,Diesel,Medium,CHINA III,,NOx,3.347
+Passenger Cars,Diesel,Medium,CHINA III,,PM25,0.148
+Passenger Cars,Diesel,Medium,CHINA III,,PM10,0.164
+Passenger Cars,Diesel,Medium,CHINA IV,,CO,1.84
+Passenger Cars,Diesel,Medium,CHINA IV,,HC,0.364
+Passenger Cars,Diesel,Medium,CHINA IV,,NOx,2.678
+Passenger Cars,Diesel,Medium,CHINA IV,,PM25,0.106
+Passenger Cars,Diesel,Medium,CHINA IV,,PM10,0.118
+Passenger Cars,Diesel,Medium,CHINA V,,CO,1.84
+Passenger Cars,Diesel,Medium,CHINA V,,HC,0.364
+Passenger Cars,Diesel,Medium,CHINA V,,NOx,2.276
+Passenger Cars,Diesel,Medium,CHINA V,,PM25,0.053
+Passenger Cars,Diesel,Medium,CHINA V,,PM10,0.059
+Passenger Cars,Diesel,Large,Pre I,,CO,10.53
+Passenger Cars,Diesel,Large,Pre I,,HC,2.668
+Passenger Cars,Diesel,Large,Pre I,,NOx,12.421
+Passenger Cars,Diesel,Large,Pre I,,PM25,1.286
+Passenger Cars,Diesel,Large,Pre I,,PM10,1.429
+Passenger Cars,Diesel,Large,CHINA I,,CO,9.86
+Passenger Cars,Diesel,Large,CHINA I,,HC,0.576
+Passenger Cars,Diesel,Large,CHINA I,,NOx,11.156
+Passenger Cars,Diesel,Large,CHINA I,,PM25,0.983
+Passenger Cars,Diesel,Large,CHINA I,,PM10,1.092
+Passenger Cars,Diesel,Large,CHINA II,,CO,8.68
+Passenger Cars,Diesel,Large,CHINA II,,HC,0.351
+Passenger Cars,Diesel,Large,CHINA II,,NOx,9.892
+Passenger Cars,Diesel,Large,CHINA II,,PM25,0.882
+Passenger Cars,Diesel,Large,CHINA II,,PM10,0.98
+Passenger Cars,Diesel,Large,CHINA III,,CO,6.74
+Passenger Cars,Diesel,Large,CHINA III,,HC,0.283
+Passenger Cars,Diesel,Large,CHINA III,,NOx,9.892
+Passenger Cars,Diesel,Large,CHINA III,,PM25,0.395
+Passenger Cars,Diesel,Large,CHINA III,,PM10,0.439
+Passenger Cars,Diesel,Large,CHINA IV,,CO,3.25
+Passenger Cars,Diesel,Large,CHINA IV,,HC,0.107
+Passenger Cars,Diesel,Large,CHINA IV,,NOx,9.892
+Passenger Cars,Diesel,Large,CHINA IV,,PM25,0.252
+Passenger Cars,Diesel,Large,CHINA IV,,PM10,0.28
+Passenger Cars,Diesel,Large,CHINA V,,CO,1.62
+Passenger Cars,Diesel,Large,CHINA V,,HC,0.054
+Passenger Cars,Diesel,Large,CHINA V,,NOx,8.64
+Passenger Cars,Diesel,Large,CHINA V,,PM25,0.126
+Passenger Cars,Diesel,Large,CHINA V,,PM10,0.14
+Heavy Duty Trucks,Petrol,Small,Pre I,,CO,47.83
+Heavy Duty Trucks,Petrol,Small,Pre I,,HC,4.987
+Heavy Duty Trucks,Petrol,Small,Pre I,,NOx,3.31
+Heavy Duty Trucks,Petrol,Small,Pre I,,PM25,0.099
+Heavy Duty Trucks,Petrol,Small,Pre I,,PM10,0.11
+Heavy Duty Trucks,Petrol,Small,CHINA I,,CO,26.16
+Heavy Duty Trucks,Petrol,Small,CHINA I,,HC,3.324
+Heavy Duty Trucks,Petrol,Small,CHINA I,,NOx,2.006
+Heavy Duty Trucks,Petrol,Small,CHINA I,,PM25,0.06
+Heavy Duty Trucks,Petrol,Small,CHINA I,,PM10,0.067
+Heavy Duty Trucks,Petrol,Small,CHINA II,,CO,21.54
+Heavy Duty Trucks,Petrol,Small,CHINA II,,HC,2.21
+Heavy Duty Trucks,Petrol,Small,CHINA II,,NOx,1.656
+Heavy Duty Trucks,Petrol,Small,CHINA II,,PM25,0.018
+Heavy Duty Trucks,Petrol,Small,CHINA II,,PM10,0.02
+Heavy Duty Trucks,Petrol,Small,CHINA III,,CO,5.61
+Heavy Duty Trucks,Petrol,Small,CHINA III,,HC,0.61
+Heavy Duty Trucks,Petrol,Small,CHINA III,,NOx,0.534
+Heavy Duty Trucks,Petrol,Small,CHINA III,,PM25,0.011
+Heavy Duty Trucks,Petrol,Small,CHINA III,,PM10,0.012
+Heavy Duty Trucks,Petrol,Small,CHINA IV,,CO,2.37
+Heavy Duty Trucks,Petrol,Small,CHINA IV,,HC,0.169
+Heavy Duty Trucks,Petrol,Small,CHINA IV,,NOx,0.229
+Heavy Duty Trucks,Petrol,Small,CHINA IV,,PM25,0.006
+Heavy Duty Trucks,Petrol,Small,CHINA IV,,PM10,0.007
+Heavy Duty Trucks,Petrol,Small,CHINA V,,CO,2.37
+Heavy Duty Trucks,Petrol,Small,CHINA V,,HC,0.169
+Heavy Duty Trucks,Petrol,Small,CHINA V,,NOx,0.172
+Heavy Duty Trucks,Petrol,Small,CHINA V,,PM25,0.006
+Heavy Duty Trucks,Petrol,Small,CHINA V,,PM10,0.007
+Heavy Duty Trucks,Petrol,Medium,Pre I,,CO,123.13
+Heavy Duty Trucks,Petrol,Medium,Pre I,,HC,6.884
+Heavy Duty Trucks,Petrol,Medium,Pre I,,NOx,5.807
+Heavy Duty Trucks,Petrol,Medium,Pre I,,PM25,0.293
+Heavy Duty Trucks,Petrol,Medium,Pre I,,PM10,0.326
+Heavy Duty Trucks,Petrol,Medium,CHINA I,,CO,75.79
+Heavy Duty Trucks,Petrol,Medium,CHINA I,,HC,6.777
+Heavy Duty Trucks,Petrol,Medium,CHINA I,,NOx,2.979
+Heavy Duty Trucks,Petrol,Medium,CHINA I,,PM25,0.159
+Heavy Duty Trucks,Petrol,Medium,CHINA I,,PM10,0.177
+Heavy Duty Trucks,Petrol,Medium,CHINA II,,CO,23.32
+Heavy Duty Trucks,Petrol,Medium,CHINA II,,HC,3.023
+Heavy Duty Trucks,Petrol,Medium,CHINA II,,NOx,2.905
+Heavy Duty Trucks,Petrol,Medium,CHINA II,,PM25,0.072
+Heavy Duty Trucks,Petrol,Medium,CHINA II,,PM10,0.08
+Heavy Duty Trucks,Petrol,Medium,CHINA III,,CO,10.71
+Heavy Duty Trucks,Petrol,Medium,CHINA III,,HC,1.371
+Heavy Duty Trucks,Petrol,Medium,CHINA III,,NOx,1.713
+Heavy Duty Trucks,Petrol,Medium,CHINA III,,PM25,0.044
+Heavy Duty Trucks,Petrol,Medium,CHINA III,,PM10,0.049
+Heavy Duty Trucks,Petrol,Medium,CHINA IV,,CO,4.5
+Heavy Duty Trucks,Petrol,Medium,CHINA IV,,HC,0.573
+Heavy Duty Trucks,Petrol,Medium,CHINA IV,,NOx,0.907
+Heavy Duty Trucks,Petrol,Medium,CHINA IV,,PM25,0.044
+Heavy Duty Trucks,Petrol,Medium,CHINA IV,,PM10,0.049
+Heavy Duty Trucks,Petrol,Medium,CHINA V,,CO,4.5
+Heavy Duty Trucks,Petrol,Medium,CHINA V,,HC,0.573
+Heavy Duty Trucks,Petrol,Medium,CHINA V,,NOx,0.68
+Heavy Duty Trucks,Petrol,Medium,CHINA V,,PM25,0.044
+Heavy Duty Trucks,Petrol,Medium,CHINA V,,PM10,0.049
+Heavy Duty Trucks,Petrol,Large,Pre I,,CO,123.13
+Heavy Duty Trucks,Petrol,Large,Pre I,,HC,6.749
+Heavy Duty Trucks,Petrol,Large,Pre I,,NOx,5.807
+Heavy Duty Trucks,Petrol,Large,Pre I,,PM25,0.293
+Heavy Duty Trucks,Petrol,Large,Pre I,,PM10,0.326
+Heavy Duty Trucks,Petrol,Large,CHINA I,,CO,75.79
+Heavy Duty Trucks,Petrol,Large,CHINA I,,HC,6.759
+Heavy Duty Trucks,Petrol,Large,CHINA I,,NOx,2.979
+Heavy Duty Trucks,Petrol,Large,CHINA I,,PM25,0.159
+Heavy Duty Trucks,Petrol,Large,CHINA I,,PM10,0.177
+Heavy Duty Trucks,Petrol,Large,CHINA II,,CO,23.32
+Heavy Duty Trucks,Petrol,Large,CHINA II,,HC,3.006
+Heavy Duty Trucks,Petrol,Large,CHINA II,,NOx,2.905
+Heavy Duty Trucks,Petrol,Large,CHINA II,,PM25,0.072
+Heavy Duty Trucks,Petrol,Large,CHINA II,,PM10,0.08
+Heavy Duty Trucks,Petrol,Large,CHINA III,,CO,10.71
+Heavy Duty Trucks,Petrol,Large,CHINA III,,HC,1.354
+Heavy Duty Trucks,Petrol,Large,CHINA III,,NOx,1.713
+Heavy Duty Trucks,Petrol,Large,CHINA III,,PM25,0.044
+Heavy Duty Trucks,Petrol,Large,CHINA III,,PM10,0.049
+Heavy Duty Trucks,Petrol,Large,CHINA IV,,CO,4.5
+Heavy Duty Trucks,Petrol,Large,CHINA IV,,HC,0.555
+Heavy Duty Trucks,Petrol,Large,CHINA IV,,NOx,0.907
+Heavy Duty Trucks,Petrol,Large,CHINA IV,,PM25,0.044
+Heavy Duty Trucks,Petrol,Large,CHINA IV,,PM10,0.049
+Heavy Duty Trucks,Petrol,Large,CHINA V,,CO,4.5
+Heavy Duty Trucks,Petrol,Large,CHINA V,,HC,0.555
+Heavy Duty Trucks,Petrol,Large,CHINA V,,NOx,0.68
+Heavy Duty Trucks,Petrol,Large,CHINA V,,PM25,0.044
+Heavy Duty Trucks,Petrol,Large,CHINA V,,PM10,0.049
+Heavy Duty Trucks,Diesel,Small,Pre I,,CO,1.34
+Heavy Duty Trucks,Diesel,Small,Pre I,,HC,0.785
+Heavy Duty Trucks,Diesel,Small,Pre I,,NOx,1.324
+Heavy Duty Trucks,Diesel,Small,Pre I,,PM25,0.179
+Heavy Duty Trucks,Diesel,Small,Pre I,,PM10,0.199
+Heavy Duty Trucks,Diesel,Small,CHINA I,,CO,0.36
+Heavy Duty Trucks,Diesel,Small,CHINA I,,HC,0.071
+Heavy Duty Trucks,Diesel,Small,CHINA I,,NOx,0.976
+Heavy Duty Trucks,Diesel,Small,CHINA I,,PM25,0.063
+Heavy Duty Trucks,Diesel,Small,CHINA I,,PM10,0.07
+Heavy Duty Trucks,Diesel,Small,CHINA II,,CO,0.45
+Heavy Duty Trucks,Diesel,Small,CHINA II,,HC,0.046
+Heavy Duty Trucks,Diesel,Small,CHINA II,,NOx,0.976
+Heavy Duty Trucks,Diesel,Small,CHINA II,,PM25,0.052
+Heavy Duty Trucks,Diesel,Small,CHINA II,,PM10,0.058
+Heavy Duty Trucks,Diesel,Small,CHINA III,,CO,0.14
+Heavy Duty Trucks,Diesel,Small,CHINA III,,HC,0.024
+Heavy Duty Trucks,Diesel,Small,CHINA III,,NOx,0.841
+Heavy Duty Trucks,Diesel,Small,CHINA III,,PM25,0.032
+Heavy Duty Trucks,Diesel,Small,CHINA III,,PM10,0.036
+Heavy Duty Trucks,Diesel,Small,CHINA IV,,CO,0.13
+Heavy Duty Trucks,Diesel,Small,CHINA IV,,HC,0.016
+Heavy Duty Trucks,Diesel,Small,CHINA IV,,NOx,0.679
+Heavy Duty Trucks,Diesel,Small,CHINA IV,,PM25,0.031
+Heavy Duty Trucks,Diesel,Small,CHINA IV,,PM10,0.034
+Heavy Duty Trucks,Diesel,Small,CHINA V,,CO,0.13
+Heavy Duty Trucks,Diesel,Small,CHINA V,,HC,0.016
+Heavy Duty Trucks,Diesel,Small,CHINA V,,NOx,0.679
+Heavy Duty Trucks,Diesel,Small,CHINA V,,PM25,0.031
+Heavy Duty Trucks,Diesel,Small,CHINA V,,PM10,0.034
+Heavy Duty Trucks,Diesel,Medium,Pre I,,CO,3.91
+Heavy Duty Trucks,Diesel,Medium,Pre I,,HC,1.493
+Heavy Duty Trucks,Diesel,Medium,Pre I,,NOx,5.47
+Heavy Duty Trucks,Diesel,Medium,Pre I,,PM25,1.603
+Heavy Duty Trucks,Diesel,Medium,Pre I,,PM10,1.781
+Heavy Duty Trucks,Diesel,Medium,CHINA I,,CO,3.44
+Heavy Duty Trucks,Diesel,Medium,CHINA I,,HC,1.425
+Heavy Duty Trucks,Diesel,Medium,CHINA I,,NOx,4.787
+Heavy Duty Trucks,Diesel,Medium,CHINA I,,PM25,0.464
+Heavy Duty Trucks,Diesel,Medium,CHINA I,,PM10,0.516
+Heavy Duty Trucks,Diesel,Medium,CHINA II,,CO,2.82
+Heavy Duty Trucks,Diesel,Medium,CHINA II,,HC,0.425
+Heavy Duty Trucks,Diesel,Medium,CHINA II,,NOx,5.693
+Heavy Duty Trucks,Diesel,Medium,CHINA II,,PM25,0.157
+Heavy Duty Trucks,Diesel,Medium,CHINA II,,PM10,0.174
+Heavy Duty Trucks,Diesel,Medium,CHINA III,,CO,2.12
+Heavy Duty Trucks,Diesel,Medium,CHINA III,,HC,0.364
+Heavy Duty Trucks,Diesel,Medium,CHINA III,,NOx,3.347
+Heavy Duty Trucks,Diesel,Medium,CHINA III,,PM25,0.148
+Heavy Duty Trucks,Diesel,Medium,CHINA III,,PM10,0.164
+Heavy Duty Trucks,Diesel,Medium,CHINA IV,,CO,1.84
+Heavy Duty Trucks,Diesel,Medium,CHINA IV,,HC,0.364
+Heavy Duty Trucks,Diesel,Medium,CHINA IV,,NOx,2.678
+Heavy Duty Trucks,Diesel,Medium,CHINA IV,,PM25,0.106
+Heavy Duty Trucks,Diesel,Medium,CHINA IV,,PM10,0.118
+Heavy Duty Trucks,Diesel,Medium,CHINA V,,CO,1.84
+Heavy Duty Trucks,Diesel,Medium,CHINA V,,HC,0.364
+Heavy Duty Trucks,Diesel,Medium,CHINA V,,NOx,2.276
+Heavy Duty Trucks,Diesel,Medium,CHINA V,,PM25,0.053
+Heavy Duty Trucks,Diesel,Medium,CHINA V,,PM10,0.059
+Heavy Duty Trucks,Diesel,Large,Pre I,,CO,10.53
+Heavy Duty Trucks,Diesel,Large,Pre I,,HC,2.668
+Heavy Duty Trucks,Diesel,Large,Pre I,,NOx,12.421
+Heavy Duty Trucks,Diesel,Large,Pre I,,PM25,1.286
+Heavy Duty Trucks,Diesel,Large,Pre I,,PM10,1.429
+Heavy Duty Trucks,Diesel,Large,CHINA I,,CO,9.86
+Heavy Duty Trucks,Diesel,Large,CHINA I,,HC,0.576
+Heavy Duty Trucks,Diesel,Large,CHINA I,,NOx,11.156
+Heavy Duty Trucks,Diesel,Large,CHINA I,,PM25,0.983
+Heavy Duty Trucks,Diesel,Large,CHINA I,,PM10,1.092
+Heavy Duty Trucks,Diesel,Large,CHINA II,,CO,8.68
+Heavy Duty Trucks,Diesel,Large,CHINA II,,HC,0.351
+Heavy Duty Trucks,Diesel,Large,CHINA II,,NOx,9.892
+Heavy Duty Trucks,Diesel,Large,CHINA II,,PM25,0.882
+Heavy Duty Trucks,Diesel,Large,CHINA II,,PM10,0.98
+Heavy Duty Trucks,Diesel,Large,CHINA III,,CO,6.74
+Heavy Duty Trucks,Diesel,Large,CHINA III,,HC,0.283
+Heavy Duty Trucks,Diesel,Large,CHINA III,,NOx,9.892
+Heavy Duty Trucks,Diesel,Large,CHINA III,,PM25,0.395
+Heavy Duty Trucks,Diesel,Large,CHINA III,,PM10,0.439
+Heavy Duty Trucks,Diesel,Large,CHINA IV,,CO,3.25
+Heavy Duty Trucks,Diesel,Large,CHINA IV,,HC,0.107
+Heavy Duty Trucks,Diesel,Large,CHINA IV,,NOx,9.892
+Heavy Duty Trucks,Diesel,Large,CHINA IV,,PM25,0.252
+Heavy Duty Trucks,Diesel,Large,CHINA IV,,PM10,0.28
+Heavy Duty Trucks,Diesel,Large,CHINA V,,CO,1.62
+Heavy Duty Trucks,Diesel,Large,CHINA V,,HC,0.054
+Heavy Duty Trucks,Diesel,Large,CHINA V,,NOx,8.64
+Heavy Duty Trucks,Diesel,Large,CHINA V,,PM25,0.126
+Heavy Duty Trucks,Diesel,Large,CHINA V,,PM10,0.14
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,Pre I,,CO,14.2
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,Pre I,,HC,2.01
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,Pre I,,NOx,0.13
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,Pre I,,PM25,0.03
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,Pre I,,PM10,0.033
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA I,,CO,8.96
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA I,,HC,0.99
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA I,,NOx,0.14
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA I,,PM25,0.018
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA I,,PM10,0.02
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA II,,CO,2.58
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA II,,HC,0.53
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA II,,NOx,0.15
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA II,,PM25,0.008
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA II,,PM10,0.009
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA III,,CO,1.11
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA III,,HC,0.21
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA III,,NOx,0.1
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA III,,PM25,0.003
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA III,,PM10,0.003
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA IV,,CO,1.11
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA IV,,HC,0.21
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA IV,,NOx,0.1
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA IV,,PM25,0.003
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA IV,,PM10,0.003
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA V,,CO,1.11
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA V,,HC,0.21
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA V,,NOx,0.1
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA V,,PM25,0.003
+L-Category,Petrol,Motorcycles 4-stroke 250 - 750 cm?,CHINA V,,PM10,0.003
+Buses,Petrol,Urban Buses Standard 15 - 18 t,Pre I,,CO,100.74
+Buses,Petrol,Urban Buses Standard 15 - 18 t,Pre I,,HC,5.144
+Buses,Petrol,Urban Buses Standard 15 - 18 t,Pre I,,NOx,5.156
+Buses,Petrol,Urban Buses Standard 15 - 18 t,Pre I,,PM25,0.293
+Buses,Petrol,Urban Buses Standard 15 - 18 t,Pre I,,PM10,0.326
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA I,,CO,62.09
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA I,,HC,5.255
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA I,,NOx,2.645
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA I,,PM25,0.159
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA I,,PM10,0.177
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA II,,CO,16.64
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA II,,HC,1.98
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA II,,NOx,2.562
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA II,,PM25,0.072
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA II,,PM10,0.08
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA III,,CO,8.25
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA III,,HC,0.869
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA III,,NOx,1.52
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA III,,PM25,0.044
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA III,,PM10,0.049
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA IV,,CO,3.77
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA IV,,HC,0.418
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA IV,,NOx,0.775
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA IV,,PM25,0.044
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA IV,,PM10,0.049
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA V,,CO,3.77
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA V,,HC,0.418
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA V,,NOx,0.582
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA V,,PM25,0.044
+Buses,Petrol,Urban Buses Standard 15 - 18 t,CHINA V,,PM10,0.049
+Buses,Diesel,Urban Buses Standard 15 - 18 t,Pre I,,CO,10.53
+Buses,Diesel,Urban Buses Standard 15 - 18 t,Pre I,,HC,2.668
+Buses,Diesel,Urban Buses Standard 15 - 18 t,Pre I,,NOx,12.421
+Buses,Diesel,Urban Buses Standard 15 - 18 t,Pre I,,PM25,1.286
+Buses,Diesel,Urban Buses Standard 15 - 18 t,Pre I,,PM10,1.429
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA I,,CO,9.86
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA I,,HC,0.576
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA I,,NOx,11.156
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA I,,PM25,0.983
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA I,,PM10,1.092
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA II,,CO,8.68
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA II,,HC,0.351
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA II,,NOx,9.892
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA II,,PM25,0.882
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA II,,PM10,0.98
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA III,,CO,6.74
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA III,,HC,0.283
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA III,,NOx,9.892
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA III,,PM25,0.395
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA III,,PM10,0.439
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA IV,,CO,3.25
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA IV,,HC,0.107
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA IV,,NOx,9.892
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA IV,,PM25,0.252
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA IV,,PM10,0.28
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA V,,CO,1.62
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA V,,HC,0.054
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA V,,NOx,8.64
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA V,,PM25,0.126
+Buses,Diesel,Urban Buses Standard 15 - 18 t,CHINA V,,PM10,0.14
