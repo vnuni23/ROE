@@ -1,0 +1,31 @@
+ROE
+├── base_info
+│   ├── base_road_map.csv
+│   ├── emission_standard_percentage.csv
+│   ├── evaporation-emission-factor.csv
+│   ├── fuel_type_percentage.csv
+│   ├── On Road Hot Emission Factor Chinese.csv
+│   └── vehicle_fleet.csv
+├── calculation
+│   ├── emission_hour
+│   ├── flow_hour
+│   │   └── plot_flow.m
+│   ├── script
+│   │   ├── ef_equation_china.py
+│   │   ├── emis_calculation-china.py
+│   │   ├── flow_calculation.py
+│   │   └── speed_mean.py
+│   └── speed_hour
+│       └── plot_speed.m
+├── gaode-crawler
+│   ├── coordTrans.py
+│   ├── crawler-traffic-speed.py
+│   ├── gaode-city-code
+│   │   └── AMap_adcode_citycode.xlsx
+│   ├── LocaDiv.py
+│   └── output
+├── post-script
+│   ├── modify_emis.py
+│   ├── road_type_flow.py
+│   └── road_type_speed.py
+└── user_guide-v1.1.pdf

@@ -1,0 +1,10 @@
+﻿Classification,Gasoline(%),Diesel(%),LPG(%)
+LDV,98.7,1.3,0
+MDV,86,14,0
+HDV,11.7,88.3,0
+LDT,29.2,70.8,0
+MDT,3.9,96.1,0
+HDT,3.2,96.8,0
+MC,100,0,0
+Bus,0,0,100
+Taxi,0,0,100
